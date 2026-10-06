@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Private career evidence and local scratch files
+claim-evidence-ledger.json
+*.log
